@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86be2669-b84f-4023-8c8a-07b8f02c0194" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/PHPMailer/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1WyAKlWytf0wab0gKhWTTurE8td" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\Mairie\gateways" />
+      <recent name="C:\wamp64\www\Mairie\metiers" />
+      <recent name="C:\wamp64\www\SalleFormationMairieBrioude\DAL" />
+      <recent name="C:\wamp64\www\SalleFormationMairieBrioude\metier" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86be2669-b84f-4023-8c8a-07b8f02c0194" name="Default Changelist" comment="" />
+      <created>1580111398488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580111398488</updated>
+      <workItem from="1580111399698" duration="2835000" />
+      <workItem from="1580114341028" duration="520000" />
+      <workItem from="1580115359692" duration="6860000" />
+      <workItem from="1580204659406" duration="4348000" />
+      <workItem from="1580310056516" duration="1014000" />
+      <workItem from="1583767922396" duration="1004000" />
+      <workItem from="1583852902951" duration="11795000" />
+      <workItem from="1584464544234" duration="10433000" />
+      <workItem from="1584730074315" duration="5550000" />
+      <workItem from="1584738800388" duration="7550000" />
+      <workItem from="1584847862383" duration="5003000" />
+      <workItem from="1584904916454" duration="9822000" />
+      <workItem from="1584915914118" duration="3576000" />
+      <workItem from="1585012898800" duration="6123000" />
+      <workItem from="1585101648486" duration="13328000" />
+      <workItem from="1585142807320" duration="28012000" />
+      <workItem from="1585223756987" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="502" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584916046681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="502" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584916046681" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1585016218103">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585016218103" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584852257132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584852257132" />
+    <state x="516" y="227" key="NewPhpClassDialog" timestamp="1585015849871">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="227" key="NewPhpClassDialog/0.0.1536.824@0.0.1536.824" timestamp="1585015849871" />
+    <state x="604" y="336" key="NewPhpFileDialog" timestamp="1585017910052">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="336" key="NewPhpFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1585017910052" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585101964641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585101964641" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1584916499907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1584916499907" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1585109369222">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585109369222" />
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1585105306013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="491" y="324" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.824@0.0.1536.824" timestamp="1585105306013" />
+  </component>
+</project>

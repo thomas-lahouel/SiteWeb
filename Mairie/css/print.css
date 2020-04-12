@@ -1,0 +1,13 @@
+@media print {
+    /*
+  .printDelete{
+      visibility: hidden;
+  }
+*/
+  button,a,span{
+  	visibility:hidden;
+  }
+
+
+  
+}
